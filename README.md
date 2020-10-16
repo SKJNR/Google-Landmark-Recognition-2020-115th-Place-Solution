@@ -16,11 +16,11 @@ In the previous editions of this challenge (2018 and 2019), submissions were han
 
 This challenge is organized in conjunction with the Landmark Retrieval Challenge 2020, which was launched June 30, 2020. Both challenges are affiliated with the Instance-Level Recognition workshop in ECCV’20.
  
- ## Data Preprocessing and EDA (#2) <a id="2"></a>
+ ## Data Preprocessing and EDA (#2) <a id='2'></a>
  Biggest Challenge in this Competition is <b>"contains a much larger number of classes (there are more than 81K classes in this challenge), and the number of training examples per class may not be very large."</b>
  Another challenge Here <b>For quite a lot of classes, there are only 2 images provided in the training set and for most of the classes training samples are less than 100 for that particular class, This means training dataset is highly imbalanced.</b>
  To know more about Image preprocessing and EDA [Click Here](https://github.com/Surekha-honey/Google-Landmark-Recognition-2020-115th-Place-Solution/blob/main/google-landmark-prediction-eda.ipynb)
- ## Baseline Model (#3) <a id="3"></a>
+ ## Baseline Model (#3) <a id='3'></a>
   
 """Baseline kernel for "Google Landmarks Recognition Challenge 2020". 
 Please visit [here](https://github.com/Surekha-honey/Google-Landmark-Recognition-2020-115th-Place-Solution/blob/main/google-landmark-recognition.ipynb)
